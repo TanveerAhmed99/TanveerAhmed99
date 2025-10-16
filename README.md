@@ -20,7 +20,8 @@
 
 ## Tools & Technologies 🎨
 
-<img src="[data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAAAAAAD/4QAuRXhpZgAATU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAGKADAAQAAAABAAAAGAAAAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDg0NDhESFRkXExgZGBcUGBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHB/2wBDAQoKCg0LCgoMDxAQExQUExgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGB/3QAEAAj/xAE/AAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAwIEAwUHBAQAAQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9P//Z](https://media.licdn.com/dms/image/v2/D5612AQFvk6EcNi59Rw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715989554604?e=2147483647&v=beta&t=mEF0nu3ZGfgjBd2w4ngkEhOsjXJ2DUvc6hhVW1KKJXE)" min-width="400px" max-width="400px" width="400px" align="right" alt="Data Science Illustration">
+<img src= <img width="489" height="285" alt="image" src="https://github.com/user-attachments/assets/5feb5ccf-79a1-484d-923c-0e162356f6ba" />
+ min-width="400px" max-width="400px" width="400px" align="right" alt="Data Science Illustration">
 
 #### Core Toolkit:
   [<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
