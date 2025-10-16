@@ -11,11 +11,13 @@ I'm a passionate Machine Learning and Deep Learning enthusiast with a keen inter
 - ⚡ Fun fact: I love blending graphics with AI—check out my 3D arcade shooters!
 
 ## 🛠️ Skills
-en.wikipedia.orgPython (programming language) - Wikipedia
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/12664176-e33e-4822-8e96-dbb15466e722" />
+
 
 Languages: Python, C, Jupyter Notebook
 
-medium.comTop 10 Python Libraries & Frameworks for ML Students in 2024. | by Aarafat  Islam | Tech Spectrum | Medium
+<img width="1400" height="877" alt="image" src="https://github.com/user-attachments/assets/1f4359ec-c294-439d-9e6a-8c75e6607d8e" />
+
 
 ML/DL Frameworks: Scikit-learn, TensorFlow/Keras, XGBoost, LightGBM, CatBoost, Hugging Face
 
