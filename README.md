@@ -52,9 +52,9 @@ Skills: `Problem Solving` `Python` `Data Structures` `Algorithms` `Machine Learn
 
 ## Let’s Connect 🔗
 <div>
-<a href="https://www.linkedin.com/in/tanveer-ahmed-shah/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://twitter.com/yourhandle" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
-<a href = "mailto: tanveer.ahmed.shah@g.bracu.ac.bd"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img loading="lazy" src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&#x26;logo=facebook&#x26;logoColor=white" target="_blank">   
+<img loading="lazy" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" target="_blank">   
+<img loading="lazy" src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&#x26;logo=discord&#x26;logoColor=white" target="_blank">
 </div>
 
 ------
