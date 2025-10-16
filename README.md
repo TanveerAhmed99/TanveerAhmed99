@@ -11,22 +11,19 @@ I'm a passionate Machine Learning and Deep Learning enthusiast with a keen inter
 - ⚡ Fun fact: I love blending graphics with AI—check out my 3D arcade shooters!
 
 ## 🛠️ Skills
+en.wikipedia.orgPython (programming language) - Wikipedia
 
+Languages: Python, C, Jupyter Notebook
 
+medium.comTop 10 Python Libraries & Frameworks for ML Students in 2024. | by Aarafat  Islam | Tech Spectrum | Medium
 
-- **Languages**: Python, C, Jupyter Notebook
+ML/DL Frameworks: Scikit-learn, TensorFlow/Keras, XGBoost, LightGBM, CatBoost, Hugging Face
 
+glinter.sourceforge.netGlinter: The PyOpenGL Interface
 
+Tools: PyOpenGL, GLUT for graphics; Various classifiers (LR, SVM, KNN, RF, etc.)
 
-- **ML/DL Frameworks**: Scikit-learn, TensorFlow/Keras, XGBoost, LightGBM, CatBoost, Hugging Face
-
-
-
-- **Tools**: PyOpenGL, GLUT for graphics; Various classifiers (LR, SVM, KNN, RF, etc.)
-
-
-
-- **Domains**: Supervised/Unsupervised Learning, Image Segmentation, Game Development, System Programming
+medium.comMachine Learning: Domains, Models, and Project Steps. | by Indrani | Medium
 
 ## 📈 GitHub Stats & Progress Diagrams
 To showcase more progress, I've added additional diagrams like streak stats, profile trophies, and a profile view counter. These visualize your contribution history, achievements, and engagement. I've also included a contribution graph for a visual overview of your activity.
