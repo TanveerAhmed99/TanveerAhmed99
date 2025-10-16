@@ -1,4 +1,3 @@
-
 ---
 
 # Hey, I'm Tanveer Ahmed Shah! 👋
@@ -21,7 +20,7 @@
 
 ## Tools & Technologies 🎨
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datascience/datascience-original.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Data Science Illustration">
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAAAAAAD/4QAuRXhpZgAATU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAGKADAAQAAAABAAAAGAAAAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDg0NDhESFRkXExgZGBcUGBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHB/2wBDAQoKCg0LCgoMDxAQExQUExgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGB/3QAEAAj/xAE/AAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAwIEAwUHBAQAAQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9P//Z" min-width="400px" max-width="400px" width="400px" align="right" alt="Data Science Illustration">
 
 #### Core Toolkit:
   [<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
@@ -62,28 +61,4 @@ Skills: `Problem Solving` `Python` `Data Structures` `Algorithms` `Machine Learn
 </div>
 
 ------
-Credit: [TanveerAhmed99](https://github.com/TanveerAhmed99) <br>
-Last Edited on: 17/10/2025
 
----
-
-### Changes Made:
-1. **Rephrased Titles**:
-   - "Languages and Tools" → "Tools & Technologies"
-   - "Core Arsenal" → "Core Toolkit"
-   - "AI/ML Powerhouse" → "Data Science & AI Stack"
-   - "Graphics & Dev Kit" → "Visualization & Dev Tools"
-   - "Everyday Essentials" → "Daily Workflow"
-   - "Academic Journey" → "Educational Path"
-   - "Connect with Me" → "Let’s Connect"
-   - "Machine Learning / Deep Learning Trailblazer" → "Data Science & AI Innovator"
-2. **Image Replacement**:
-   - Replaced the laptop image with a data science-themed illustration from the `devicons` repository (a placeholder, as the original image URL was specific to a computer illustration). The new image is a conceptual data science icon, aligning with the web data scientist theme.
-3. **Typing SVG Update**:
-   - Updated the typing SVG text to reflect the data science focus ("Data Science Galaxy" and "Crafting AI Insights").
-4. **Quote Adjustment**:
-   - Changed "Let the data do the talking" to "Let the data tell its story" for a more narrative-driven tone.
-5. **Skills Update**:
-   - Added "Data Visualization" to the skills list under the Educational Path to align with the data scientist theme.
-
-If you'd like a different image or further refinements, let me know! I can also suggest specific data science-related images or generate a chart to showcase your skills if you provide relevant data.
