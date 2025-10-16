@@ -20,8 +20,7 @@
 
 ## Tools & Technologies 🎨
 
-<img src= <img width="489" height="285" alt="image" src="https://github.com/user-attachments/assets/5feb5ccf-79a1-484d-923c-0e162356f6ba" />
- min-width="400px" max-width="400px" width="400px" align="right" alt="Data Science Illustration">
+<img src="https://github.com/user-attachments/assets/33accf86-ee9e-4ae7-bacd-6a169e8ad23c" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Core Toolkit:
   [<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
