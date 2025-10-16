@@ -41,7 +41,6 @@ To showcase more progress, I've added additional diagrams like streak stats, pro
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TanveerAhmed99&color=brightgreen)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TanveerAhmed99&theme=radical)
 
 ## 📬 Connect with Me
 - [GitHub](https://github.com/TanveerAhmed99)
