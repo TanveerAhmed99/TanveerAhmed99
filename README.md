@@ -18,6 +18,8 @@
 
 <br>
 
+---
+
 ## Tools & Technologies 🎨
 
 <img src="https://github.com/user-attachments/assets/33accf86-ee9e-4ae7-bacd-6a169e8ad23c" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -41,14 +43,18 @@
 
 <br>
 
+---
+
 ## Educational Path 📚
 
 [<img align="left" height="94px" width="94px" alt="BRACU Logo" src="https://www.bracu.ac.bd/sites/default/files/resources/media/bracu_logo.png"/>](https://www.bracu.ac.bd/)
 **Computer Science Undergraduate** \
 [**BRAC University**](https://www.bracu.ac.bd/) • In progress\
-Skills: `Problem Solving` `Python` `Data Structures` `Algorithms` `Machine Learning` `Deep Learning` `Data Visualization` `Innovation`
+Skills: `Problem Solving` `Python` | `Data Structures` | `Algorithms` | `Machine Learning` | `Deep Learning` | `Data Visualization` | `Innovation`
 
 <br>
+
+---
 
 ## Let’s Connect 🔗
 <div>
