@@ -1,7 +1,5 @@
 # Hi there, I'm Tanveer Ahmed Shah! 👋
 
-
-
 I'm a passionate Machine Learning and Deep Learning enthusiast with a keen interest in applying AI to real-world problems like healthcare, environmental prediction, and image processing. I enjoy building models, experimenting with neural networks, and creating interactive applications. My projects span from classification and clustering tasks to game development and system programming.
 
 - 🔭 Currently exploring advanced DL architectures like U-Net for image segmentation.
@@ -11,21 +9,80 @@ I'm a passionate Machine Learning and Deep Learning enthusiast with a keen inter
 - ⚡ Fun fact: I love blending graphics with AI—check out my 3D arcade shooters!
 
 ## 🛠️ Skills
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/12664176-e33e-4822-8e96-dbb15466e722" />
+
+### Languages
 
 
-Languages: Python, C, Jupyter Notebook
 
-<img width="1400" height="877" alt="image" src="https://github.com/user-attachments/assets/1f4359ec-c294-439d-9e6a-8c75e6607d8e" />
+Python
 
 
-ML/DL Frameworks: Scikit-learn, TensorFlow/Keras, XGBoost, LightGBM, CatBoost, Hugging Face
 
-glinter.sourceforge.netGlinter: The PyOpenGL Interface
+C
 
-Tools: PyOpenGL, GLUT for graphics; Various classifiers (LR, SVM, KNN, RF, etc.)
 
-medium.comMachine Learning: Domains, Models, and Project Steps. | by Indrani | Medium
+
+Jupyter Notebook
+
+### ML/DL Frameworks
+
+
+
+Scikit-learn
+
+
+
+TensorFlow
+
+
+
+Keras
+
+
+
+XGBoost
+
+
+
+LightGBM
+
+
+
+CatBoost
+
+
+
+Hugging Face
+
+### Tools
+
+
+
+PyOpenGL
+
+
+
+GLUT for graphics
+
+
+
+
+### Domains
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📈 GitHub Stats & Progress Diagrams
 To showcase more progress, I've added additional diagrams like streak stats, profile trophies, and a profile view counter. These visualize your contribution history, achievements, and engagement. I've also included a contribution graph for a visual overview of your activity.
